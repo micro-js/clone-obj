@@ -12,7 +12,6 @@
     "@micro-js/foreach": "0.0.1"
   },
   "devDependencies": {
-    "tape": "^4.2.2",
-    "standard": "^5.4.1"
+    "tape": "^4.2.2"
   }
 }
