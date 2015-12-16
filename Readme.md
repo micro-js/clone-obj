@@ -10,12 +10,12 @@ Create a shallow copy of an object.
 
 ## Installation
 
-    $ npm install @micro-js/clone-obj
+    $ npm install @f/clone-obj
 
 ## Usage
 
 ```js
-var cloneObj = require('@micro-js/clone-obj')
+var cloneObj = require('@f/clone-obj')
 
 cloneObj({a: 1, b: 'test'})
 ```
@@ -38,5 +38,5 @@ MIT
 [git-url]: https://github.com/micro-js/clone-obj
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/clone-obj.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/clone-obj
+[npm-image]: https://img.shields.io/npm/v/@f/clone-obj.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/clone-obj
